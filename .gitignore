@@ -1,0 +1,10 @@
+### Scala template
+*.class
+*.log
+
+# IntelliJ project files
+.idea
+build.sbt
+.settings
+lib
+project
