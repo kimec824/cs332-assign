@@ -8,3 +8,7 @@
 **/.settings/
 **/lib/
 **/project/
+**/lib_managed
+**/recitations
+**/submission
+**/target
